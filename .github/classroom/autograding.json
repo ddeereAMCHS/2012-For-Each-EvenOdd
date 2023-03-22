@@ -7,7 +7,7 @@
       "input": "input.txt",
       "output": "Even values: 24 12 84 1024 96\r\nOdd values: 7 19 3 5 37\r\nEven indexes: 7 24 3 5 37\r\nOdd indexes: 19 12 84 1024 96",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -17,7 +17,7 @@
       "input": "input2.txt",
       "output": "Even values: 8 6 4 2 0\r\nOdd values: 9 7 5 3 1\r\nEven indexes: 9 7 5 3 1\r\nOdd indexes: 8 6 4 2 0",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     }
   ]
