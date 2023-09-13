@@ -1,6 +1,6 @@
 # For Each EvenOdd
 
-## Due: Thur 9/15 at 11:59 PM
+## Due: Thur 9/14 at 11:59 PM
 
 - Create a program called `EvenOdd.java`
 - Prompt the user for a filename
